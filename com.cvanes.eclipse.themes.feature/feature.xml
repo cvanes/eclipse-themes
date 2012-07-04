@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="com.cvanes.eclipse.themes.feature"
-      label="Eclipse Themese"
+      label="Eclipse Themes"
       version="1.0.0.qualifier"
       provider-name="CVANES">
 
