@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.cvanes.eclipse.themes.feature"
+      label="Eclipse Themese"
+      version="1.0.0.qualifier"
+      provider-name="CVANES">
+
+   <description url="https://github.com/cvanes/eclipse-themes">
+      Eclipse themes for Juno and above.
+   </description>
+
+   <requires>
+      <import plugin="org.eclipse.e4.ui.css.swt.theme" version="0.9.2" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.cvanes.eclipse.ubuntu.theme"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
