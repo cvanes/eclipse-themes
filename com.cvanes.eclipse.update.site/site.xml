@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/com.cvanes.eclipse.themes.feature_1.0.0.201207041529.jar" id="com.cvanes.eclipse.themes.feature" version="1.0.0.201207041529">
+   <feature url="features/com.cvanes.eclipse.themes.feature_1.0.0.201207041550.jar" id="com.cvanes.eclipse.themes.feature" version="1.0.0.201207041550">
       <category name="Eclipse Themes"/>
    </feature>
    <category-def name="Eclipse Themes" label="Eclipse Themes"/>
